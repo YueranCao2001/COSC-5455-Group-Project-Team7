@@ -5,19 +5,25 @@
 ## Team Member: Yueran Cao, Zhengheng Li, Xizhong Xu, Zinian Wang
 
 # Contents
-1. [How to Run a Demo](#How_to_Run_a_Demo)
-2. [References](#References)
-3. [Member Assignments](#Member_Assignments)
-4. [Link to Slides](#Link_to_Slides)
+1. [How to Run a Demo](#how-to-run-a-demo)
+2. [References](#references)
+3. [Member Assignments](#member-assignments)
+4. [Link to Slides](#link-to-slides)
+
+
 
 # 1. How to Run a Demo
 
+---
 
 # 2. References
 
+---
 
 # 3. Member Assignments
 
+---
 
 # 4. Link to Slides
 
+---
