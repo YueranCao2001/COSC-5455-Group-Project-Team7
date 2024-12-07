@@ -1,8 +1,8 @@
 # COSC-5455-Group-Project
 
-## Fine-tuning Strategies based on DreamBooth
+# Fine-tuning Strategies based on DreamBooth
 
-### Team Members: Yueran Cao, Zhengheng Li, Xizhong Xu, Zinian Wang
+## Team Members: Yueran Cao, Zhengheng Li, Xizhong Xu, Zinian Wang
 
 ---
 
@@ -63,13 +63,12 @@ N. Ruiz, Y. Li, V. Jampani, D. P. W. Ellis, and A. Veit, "DreamBooth: Fine Tunin
 
 # 3. Member Assignments
 
-Representative: Yueran Cao
-
-Zhengheng Li
-
-Zinian Wang
-
-Xizhong Xu
+|Member Name                 |Member Email           |Assignments                                    |Presentation  |
+|:---------------------------|:---------------------:|:---------------------------------------------:|-------------:|
+|Yueran Cao (Representative) |yc1306@georgetown.edu  |Coding, Organization Works, Literature Review  |Overview      |
+|Zhengheng Li                |zl635@georgetown.edu   |Coding, Experiments, Coding-related Guidance   |Experiments   |
+|Zinian Wang                 |zw475@georgetown.edu   |Coding, Evaluation, Handle with Datasets       |Evaluation    |
+|Xizhong Xu                  |xx153@georgetown.edu   |Coding, Methodology, Model-related Explanation |Methodology   |
 
 ---
 
