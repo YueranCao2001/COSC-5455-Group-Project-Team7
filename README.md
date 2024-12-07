@@ -63,6 +63,8 @@ N. Ruiz, Y. Li, V. Jampani, D. P. W. Ellis, and A. Veit, "DreamBooth: Fine Tunin
 
 # 3. Member Assignments
 
+In this project, each member was actively involved and made a similar contribution to the final result. The following table shows what each member is responsible for, but it does not mean that they are not doing other work that is not assigned to them.
+
 |Member Name                 |Member Email           |Assignments                                    |Presentation  |
 |:---------------------------|:---------------------:|:---------------------------------------------:|-------------:|
 |Yueran Cao (Representative) |yc1306@georgetown.edu  |Coding, Organization Works, Literature Review  |Overview      |
@@ -73,3 +75,7 @@ N. Ruiz, Y. Li, V. Jampani, D. P. W. Ellis, and A. Veit, "DreamBooth: Fine Tunin
 ---
 
 # 4. Link to Slides
+
+
+
+---
