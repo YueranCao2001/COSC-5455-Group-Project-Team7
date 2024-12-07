@@ -7,7 +7,7 @@
 ---
 
 ## Contents
-1. [How to Run a Demo](#how-to-run-a-demo)
+1. [How to Run a Demo](#How-to-Run-a-Demo)
 2. [References](#references)
 3. [Member Assignments](#member-assignments)
 4. [Link to Slides](#link-to-slides)
