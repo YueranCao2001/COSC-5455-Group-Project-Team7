@@ -7,7 +7,7 @@
 ---
 
 ## Contents
-1. [How to Run a Demo](#How-to-Run-a-Demo)
+1. [How to Run a Demo](#how-to-run-a-demo)
 2. [References](#references)
 3. [Member Assignments](#member-assignments)
 4. [Link to Slides](#link-to-slides)
@@ -20,9 +20,12 @@
 
 # 2. References
 
-2.1 References related to coding part
+## 2.1 References related to coding part
 
-2.2 References we use for literature review (More details can be found in the PPT)
+
+---
+
+## 2.2 References we use for literature review (More details can be found in the PPT)
 
 [1]. StyleGAN
 
