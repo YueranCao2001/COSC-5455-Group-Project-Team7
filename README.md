@@ -72,6 +72,11 @@
 5. **Other Options**:
    - **Disconnect_after_training**: Check this box if you want to automatically disconnect from the session after training completes.
 
+### Fine-tuned Models
+
+All session files can be found here: https://drive.google.com/drive/folders/1-YDmlfR6W3UHKwHm7xjMw_3U9-lwQLfm?usp=drive_link
+
+All fine-tuned CKPT files can be found in corresponding session folders. 
 ---
 
 # 2. References
