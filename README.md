@@ -22,9 +22,14 @@
 
 ## 2.1 References related to coding part
 
-**[1]. Dreambooth notebook we used for our project** 
+**[1]. Dreambooth notebook we used for our project:** 
 
 https://github.com/TheLastBen/fast-stable-diffusion
+
+**[2]. A Youtube tutorial we used for the notebook:**
+
+https://www.youtube.com/watch?v=nH18FMttD-c
+
 
 ---
 
