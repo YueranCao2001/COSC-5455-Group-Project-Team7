@@ -16,6 +16,62 @@
 
 # 1. How to Run a Demo
 
+## 1.1 Preparation
+- **Google Colab**: Ensure you have access to [Google Colab](https://colab.research.google.com/).
+- **Google Drive**
+
+## 1.2 Steps to run
+### Mount Google Drive
+- Open the Colab notebook.
+- Run the following code to mount your Google Drive:
+  ```python
+  from google.colab import drive
+  drive.mount('/content/gdrive')
+
+### Install Denpendencies
+- Run the code cell named Requirment to install dependencies.
+
+### Download the Model
+- Select the model version from the dropdown (e.g., 1.5).
+- If required, provide custom model paths or download links.
+- Run the code cell to download the specified model version. The system will handle the process automatically.
+
+### Create/Load a Session
+- **Session Name**: Enter a session name. If it exists, it will load the session; otherwise, it will create a new one.
+#### Important Note
+- rename the instance pictures of each subject to a unique unknown identifier, example :
+  - If your identifier is `phtmejhn`, rename the files as:
+    ```
+    phtmejhn (1).jpg, phtmejhn (2).png, etc.
+    ```
+  - Each subject/object should have a distinct identifier.
+
+### Upload Instance Images
+- Run the cell to upload the instance images.
+
+#### Options
+- **Remove_existing_instance_images**: Check this box to remove previously uploaded instance images.
+- **Smart_Crop_images**: Check this box if you want the images to be automatically cropped to the desired size.
+
+### Training
+- **Training Parameters**:
+   - **UNet_Training_Steps**: Adjust according to the size of the dataset. For smaller datasets (e.g., 10 images), start with `1500` or lower and adjust as needed.
+   - **UNet_Learning_Rate**: Select the learning rate from the dropdown. Suggested default is `2e-6`. Avoid values too high to prevent overfitting.
+   - **Text_Encoder_Training_Steps**: Default is `350`. Keep this value low (200–450) for small datasets.
+   - **Text_Encoder_Learning_Rate**: Suggested default is `2e-6`.
+   - **Offset_Noise**: Enable this option for style training.
+- Run the cell to train model.
+
+3. **Resolution**:
+   - Default is `512`. Higher resolution provides better quality, but ensure instance images match the resolution.
+
+4. **Save Checkpoints**:
+   - **Save_Checkpoint_Every**: Set the interval for saving checkpoints (default is `500` steps).
+   - **Start_saving_from_the_step**: Set the step from which to start saving checkpoints (default is `500`).
+
+5. **Other Options**:
+   - **Disconnect_after_training**: Check this box if you want to automatically disconnect from the session after training completes.
+
 ---
 
 # 2. References
