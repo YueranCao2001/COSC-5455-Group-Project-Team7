@@ -72,6 +72,9 @@
 5. **Other Options**:
    - **Disconnect_after_training**: Check this box if you want to automatically disconnect from the session after training completes.
 
+### Fine-tuned Models
+
+- All session files can be found here: https://drive.google.com/drive/folders/1-YDmlfR6W3UHKwHm7xjMw_3U9-lwQLfm?usp=drive_link. All fine-tuned CKPT files can be found in corresponding session folders. 
 ---
 
 # 2. References
@@ -140,6 +143,10 @@ In this project, each member was actively involved and made a similar contributi
 
 # 4. Link to Slides
 
+You can see the slides in .pptx version via [Slides_PPTX](COSC-5455%20Presentation.pptx)
 
+Or you can see the slides in pdf version via [Slides_PDF](COSC-5455%20Presentation.pdf)
+
+Or just see via the Google Slide: https://docs.google.com/presentation/d/1Qt_NBI4VgZe3ITk6QHVXP-tyk0ldcWzrE8-5rDea5Jo/edit?usp=sharing
 
 ---
