@@ -74,7 +74,7 @@
 
 ### Fine-tuned Models
 
-All session files can be found here: https://drive.google.com/drive/folders/1-YDmlfR6W3UHKwHm7xjMw_3U9-lwQLfm?usp=drive_link. All fine-tuned CKPT files can be found in corresponding session folders. 
+- All session files can be found here: https://drive.google.com/drive/folders/1-YDmlfR6W3UHKwHm7xjMw_3U9-lwQLfm?usp=drive_link. All fine-tuned CKPT files can be found in corresponding session folders. 
 ---
 
 # 2. References
