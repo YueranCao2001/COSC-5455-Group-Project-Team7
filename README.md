@@ -143,10 +143,10 @@ In this project, each member was actively involved and made a similar contributi
 
 # 4. Link to Slides
 
-You can see the slides in .pptx version via [Slides_PPTX](COSC-5455%20Presentation.pptx)
+You can see the slides in .pptx version (some formatting changes due to export issues) via [Slides_PPTX](COSC-5455%20Presentation.pptx)
 
-Or you can see the slides in pdf version via [Slides_PDF](COSC-5455%20Presentation.pdf)
+Or you can see the original slides in pdf version via [Slides_PDF](COSC-5455%20Presentation.pdf)
 
-Or just see via the Google Slide: https://docs.google.com/presentation/d/1Qt_NBI4VgZe3ITk6QHVXP-tyk0ldcWzrE8-5rDea5Jo/edit?usp=sharing
+Or just see the original version via the Online Google Slide: https://docs.google.com/presentation/d/1Qt_NBI4VgZe3ITk6QHVXP-tyk0ldcWzrE8-5rDea5Jo/edit?usp=sharing
 
 ---
