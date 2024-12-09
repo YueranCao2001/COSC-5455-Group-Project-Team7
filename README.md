@@ -1,4 +1,4 @@
-# COSC-5455-Group-Project-team7
+# COSC-5455-Group-Project-Team7
 
 # Fine-tuning Strategies based on DreamBooth
 
