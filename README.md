@@ -62,14 +62,14 @@
    - **Offset_Noise**: Enable this option for style training.
 - Run the cell to train model.
 
-3. **Resolution**:
+- **Resolution**:
    - Default is `512`. Higher resolution provides better quality, but ensure instance images match the resolution.
 
-4. **Save Checkpoints**:
+- **Save Checkpoints**:
    - **Save_Checkpoint_Every**: Set the interval for saving checkpoints (default is `500` steps).
    - **Start_saving_from_the_step**: Set the step from which to start saving checkpoints (default is `500`).
 
-5. **Other Options**:
+- **Other Options**:
    - **Disconnect_after_training**: Check this box if you want to automatically disconnect from the session after training completes.
 
 ### Fine-tuned Models
